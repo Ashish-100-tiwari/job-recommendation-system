@@ -1,0 +1,29 @@
+=>download and install nodejs, python
+
+=>run following command to install all the libraries
+pip install -r requirements.txt
+
+
+=>run following command to start the server
+python server.py
+
+this will start the web application.
+to see the project, open browser and type below url
+
+http://localhost/
+
+
+====================tech stack===========================
+
+**Frontend
+
+Firstore database
+React JS 
+Material UI
+
+
+**Backend
+
+python
+flask
+Natural Language Toolkit
